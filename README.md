@@ -104,15 +104,16 @@ Cada estudiante puede subir sus ejercicios por semana utilizando la funcionalida
 1. **Crear un Issue para Cada Semana de Ejercicio**
    - Ve a la pestaña 'Issues' del repositorio.
    - Haz clic en 'New Issue'.
-   - Selecciona la plantilla que corresponde a la semana del ejercicio (por ejemplo, 'Entrega de Ejercicio Semana X').
+   - Selecciona la plantilla 'Entrega de Ejercicio Semanal'.
 
 2. **Completa la Plantilla de Issue**
    - **Semana**: Indica la semana del curso correspondiente al ejercicio.
    - **Descripción del Ejercicio**: Detalla lo que se ha trabajado en el ejercicio.
+   - **Archivo del Ejercicio**: Adjunta el archivo (.ipynb, .py, etc.) que contiene tu ejercicio. Puedes arrastrar y soltar el archivo en el issue o utilizar el botón de adjuntar archivos.
    - **Dudas o Problemas Encontrados**: Menciona cualquier pregunta o problema que hayas tenido durante el ejercicio.
 
 3. **Etiquetar Correctamente el Issue**
-   - Utiliza las etiquetas proporcionadas para categorizar tu ejercicio según la semana correspondiente (e.g., `Semana 1`, `Semana 2`, etc.).
+   - Una vez que hayas creado el issue agrégale una etiqueta. Selecciona la etiqueta correspondiente a la semana (e.g., `Semana 1`, `Semana 2`, etc.).
 
 4. **Envía el Issue**
    - Una vez completado, haz clic en 'Submit new issue'.
