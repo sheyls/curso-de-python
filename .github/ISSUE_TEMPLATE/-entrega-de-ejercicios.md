@@ -17,7 +17,7 @@ Escribe o explica la orden del ejercicio
 
 ## Enlace al Archivo del Ejercicio
 
-Proporciona un enlace al archivo que has subido a tu repositorio.
+[Mi Ejercicio] (pega/el/link/aqui)
 
 ## Dudas o Problemas Encontrados
 
