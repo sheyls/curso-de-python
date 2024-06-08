@@ -113,7 +113,7 @@ Cada estudiante puede subir sus ejercicios por semana utilizando la funcionalida
    - **Dudas o Problemas Encontrados**: Menciona cualquier pregunta o problema que hayas tenido durante el ejercicio.
 
 3. **Etiquetar Correctamente el Issue**
-   - Una vez que hayas creado el issue agrégale una etiqueta. Selecciona la etiqueta correspondiente a la semana (e.g., `Semana 1`, `Semana 2`, etc.).
+   - Una vez que hayas creado el issue agrégale un *label*. Selecciona el *label* correspondiente a la semana (e.g., `Semana 1`, `Semana 2`, etc.).
 
 4. **Envía el Issue**
    - Una vez completado, haz clic en 'Submit new issue'.
