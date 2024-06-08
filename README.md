@@ -20,8 +20,6 @@ Si estás leyendo esto es porque has escogido el camino del bien y quieres apren
 
 Python es un lenguaje de programación versátil y de alto nivel que se distingue por su simplicidad y legibilidad del código, haciendo que sea especialmente atractivo para principiantes y expertos por igual. Este curso tiene como objetivo proporcionar una comprensión de los fundamentos de Python y su aplicación en diferentes áreas. Aprender Python no solo enriquecerá tu kit de herramientas tecnológicas, sino que podrás mejorar significativamente tu capacidad para analizar información compleja, automatizar tareas y desarrollar soluciones software efectivas, habilidades altamente valoradas en el mercado laboral actual.
 
-El programa detallado del curso se les pasará en un documento aparte. Antes de nuestra primera clase, hay algunas cosas que necesitamos preparar para asegurarnos de que todos estamos listos para comenzar con el pie derecho.
-
 ### Pasos previos a la primera clase:
 
 #### 1. Instalar Python
@@ -72,11 +70,6 @@ El programa detallado del curso se les pasará en un documento aparte. Antes de 
 3. Busca "Jupyter" y selecciona la extensión oficial de Microsoft.
 4. Haz clic en instalar.
 
-### Nota:
-- En las clases necesitaremos conexión a internet.
-
-====Si tienes problemas con la instalación, intenta resolverlos antes de clase. Si no es posible, ven preparado con una razón convincente o 50 caramelos de menta.==
-
 ## Contexto del Curso
 
 El curso se desarrolló como una opción electiva para estudiantes interesados en profundizar en la programación y en particular en el uso de Python para diversos fines como análisis de datos, desarrollo web y ciencia de datos. El objetivo principal del curso fue proporcionar una base sólida en Python, explorando desde conceptos básicos hasta aplicaciones más complejas utilizando diversas bibliotecas.
@@ -101,21 +94,29 @@ Para hacer uso de los notebooks, se recomienda clonar todo el repositorio y lueg
 
 Cada estudiante puede subir sus ejercicios por semana utilizando la funcionalidad de 'Issues' en este repositorio. Aquí te explicamos cómo hacerlo:
 
-1. **Crear un Issue para Cada Semana de Ejercicio**
-   - Ve a la pestaña 'Issues' del repositorio.
+1. **Subir el Archivo del Ejercicio a tu Repositorio de GitHub**
+   - Crea un repositorio en tu cuenta de GitHub para subir tus ejercicios.
+   - Organízalo como creas conveniente, yo recomiendo separar los ejercicios por semana o tipo
+   - Sube los archivos con tus ejercicios (.ipynb, .py, etc.)
+
+2. **Crear un Issue para Notificar la Entrega**
+   - Ve a la pestaña 'Issues' del repositorio del curso.
    - Haz clic en 'New Issue'.
    - Selecciona la plantilla 'Entrega de Ejercicio Semanal'.
 
-2. **Completa la Plantilla de Issue**
+3. **Completa la Plantilla de Issue**
    - **Semana**: Indica la semana del curso correspondiente al ejercicio.
    - **Descripción del Ejercicio**: Detalla lo que se ha trabajado en el ejercicio.
-   - **Archivo del Ejercicio**: Adjunta el archivo (.ipynb, .py, etc.) que contiene tu ejercicio. Puedes arrastrar y soltar el archivo en el issue o utilizar el botón de adjuntar archivos.
+   - **Enlace al Archivo del Ejercicio**: Proporciona un enlace al archivo que has subido a tu repositorio (Abre tu archivo en github y copia y pega el link). Quedará algo como:
+     ```
+     (https://github.com/tu_usuario/tu_repositorio/blob/main/ejercicios1/tu_archivo.ipynb)
+     ```
    - **Dudas o Problemas Encontrados**: Menciona cualquier pregunta o problema que hayas tenido durante el ejercicio.
 
-3. **Etiquetar Correctamente el Issue**
-   - Una vez que hayas creado el issue agrégale un *label*. Selecciona el *label* correspondiente a la semana (e.g., `Semana 1`, `Semana 2`, etc.).
+4. **Etiquetar Correctamente el Issue**
+   - Una vez que hayas creado el issue, selecciona la etiqueta correspondiente a la semana (e.g., `semana 1`, `semana 2`, etc.).
 
-4. **Envía el Issue**
+5. **Envía el Issue**
    - Una vez completado, haz clic en 'Submit new issue'.
 
 
