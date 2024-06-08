@@ -15,9 +15,9 @@ title: "[Semana X] Ejercicio de [nombre del estudiante]"
 
 Escribe o explica la orden del ejercicio
 
-## Archivo del Ejercicio
+## Enlace al Archivo del Ejercicio
 
-Adjunta el archivo (.ipynb, .py, etc.) que contiene tu ejercicio. Puedes arrastrar y soltar el archivo aquí o utilizar el botón de adjuntar archivos.
+Proporciona un enlace al archivo que has subido a tu repositorio.
 
 ## Dudas o Problemas Encontrados
 
