@@ -17,7 +17,7 @@ Escribe o explica la orden del ejercicio
 
 ## Enlace al Archivo del Ejercicio
 
-[Mi Ejercicio] (pega/el/link/aqui)
+[Mi Ejercicio](pega/el/link/aqui)
 
 ## Dudas o Problemas Encontrados
 
