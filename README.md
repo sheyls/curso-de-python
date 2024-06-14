@@ -82,6 +82,8 @@ El curso se desarrolló como una opción electiva para estudiantes interesados e
 
 **Semana 3: Programación Orientada a Objetos (OOP)**
 
+**Semana 4: Elementos extra de sintaxis en Python. Ejercitación del contenido**
+
 (El README se irá actualizando todas las semanas hasta el final del curso)
 
 ## Cómo Usar este Repositorio
