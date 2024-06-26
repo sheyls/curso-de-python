@@ -84,6 +84,8 @@ El curso se desarrolló como una opción electiva para estudiantes interesados e
 
 **Semana 4: Elementos extra de sintaxis en Python. Ejercitación del contenido**
 
+**Semana 5: Introducción a Numpy**
+
 (El README se irá actualizando todas las semanas hasta el final del curso)
 
 ## Cómo Usar este Repositorio
