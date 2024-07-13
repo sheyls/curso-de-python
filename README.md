@@ -86,6 +86,12 @@ El curso se desarrolló como una opción electiva para estudiantes interesados e
 
 **Semana 5: Introducción a Numpy**
 
+**Semana 6: Visualización de datos (Matplotlib y Seaborn)**
+
+**Semana 7: Introduccion al procesamiento de datos con Pandas**
+
+**Semana 8: Streamlit: una web fácil para mostrar datos**
+
 (El README se irá actualizando todas las semanas hasta el final del curso)
 
 ## Cómo Usar este Repositorio
